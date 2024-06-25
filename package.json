@@ -4,15 +4,13 @@
   },
   "name": "majorprojectg",
   "version": "1.0.0",
-  "description": "",
+  "description": "hello",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    // "start": "node app.js",
-    // "dev": "nodemon app.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Yuvraj Singh",
   "license": "ISC",
   "dependencies": {
     "@mapbox/mapbox-sdk": "^0.16.0",
