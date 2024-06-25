@@ -67,10 +67,6 @@ const sessionOptions = {
        },
 };
 
-// app.get("/" , (req, res) =>{
-//     res.send("working  ji");
-// });
-
 
 
 app.use(session(sessionOptions));
